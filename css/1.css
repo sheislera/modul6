@@ -1,0 +1,47 @@
+.pos-a{
+    position: absolute;
+}
+
+.pos-f{
+    position: fixed;
+}
+
+.l-0{
+    left: 0;
+}
+
+.b-0{
+    bottom: 0;
+}
+
+.w-50{
+    width: 50%;
+}
+
+.h-50{
+    height: 50%;
+}
+
+.w-50p{
+    width: 50px;
+}
+
+.h-50p{
+    height: 50px;
+}
+
+.zi-1{
+    z-index: 1;
+}
+
+.ta-c{
+    text-align: center;
+}
+
+.bg-gr{
+    background-color: rgb(130, 129, 128);
+}
+
+.bg-r{
+    background-color: rgb(187, 63, 63);
+}
